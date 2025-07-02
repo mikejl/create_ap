@@ -1,16 +1,6 @@
-## NOT MAINTAINED
+## Maintained For Sticker Hiest OS
 
-This project is no longer maintained.
-
-
-## Forks and continuation of this project
-
-* [linux-wifi-hotspot] - Fork that is focused on providing GUI and improvements.
-* [linux-router] - Fork that is focused on providing new features and
-    improvements which are not limited to WiFi. Some interesting features are:
-    sharing Internet to a wired interface and sharing Internet via a transparent
-    proxy using redsocks.
-
+The main project is no longer maintained.  This fork is used for Sticker Heist OS
 
 ## Features
 
